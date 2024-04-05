@@ -34,3 +34,15 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+## Color Palette
+[Red:#e77460](https://www.color-hex.com/color/e77460)
+[Orange:#f8c169](https://www.color-hex.com/color/f8c169)
+[Green:#a4c972](https://www.color-hex.com/color/a4c972)
+[Pink: #e2b9d7](https://www.color-hex.com/color/e2b9d7)
+[Blue: #5d8fc5](https://www.color-hex.com/color/5d8fc5)
+[Purple: #9679d0](https://www.color-hex.com/color/9679d0)
+
+Additional references:
+- [Kingdom Hearts Color Palette](https://www.color-hex.com/color-palette/73363)
+- [Kingdom Hearts Nightmares Collection](https://www.color-hex.com/color-palette/73367)
