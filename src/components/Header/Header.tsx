@@ -6,10 +6,9 @@ const Header = () => (
             {/* <p>Wayfinder - A world away from home.</p> */}
             <Link href='/' className='text-[#ff4040]'>Home</Link>
         </div>
-        <ul className="flex items-center ml-5">
+        <ul className="items-center ml-5">
             <li>Worlds</li>
             <li>Listings</li>
-            <li>Wanna Get Away</li>
         </ul>
     </header>);
 
