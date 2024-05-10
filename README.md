@@ -35,13 +35,25 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
-## Color Palette
+## Bright Color Palette
 [Red:#e77460](https://www.color-hex.com/color/e77460)
 [Orange:#f8c169](https://www.color-hex.com/color/f8c169)
+[Yellow: #FFEB82](https://www.color-hex.com/color/ffeb82)
 [Green:#a4c972](https://www.color-hex.com/color/a4c972)
 [Pink: #e2b9d7](https://www.color-hex.com/color/e2b9d7)
 [Blue: #5d8fc5](https://www.color-hex.com/color/5d8fc5)
 [Purple: #9679d0](https://www.color-hex.com/color/9679d0)
+[White: #f3f6f4](https://www.color-hex.com/color/f3f6f4 )
+
+## Dark Color Palette
+[Red:#a31414](https://www.color-hex.com/color/a31414)
+[Orange:#e48220](https://www.color-hex.com/color/e48220)
+[Yellow: #e9e94b](https://www.color-hex.com/color/e9e94b)
+[Green:#71b52c](https://www.color-hex.com/color/71b52c)
+[Pink: #d65897 ](https://www.color-hex.com/color/d65897)
+[Blue: #327dca](https://www.color-hex.com/color/327dca)
+[Purple: #722db6](https://www.color-hex.com/color/722db6)
+[Black: #121212](https://www.color-hex.com/color/121212)
 
 Additional references:
 - [Kingdom Hearts Color Palette](https://www.color-hex.com/color-palette/73363)
