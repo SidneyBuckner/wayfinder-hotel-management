@@ -9,10 +9,10 @@ const Header = () => (
         </div>
         <div>
             <ul className="flex items-center">
-                <li className="ml-5 cursor-pointer"><Link href="/worlds">Worlds</Link></li>
-                <li className="ml-5 cursor-pointer"><Link href="/rooms">Rooms</Link></li>
-                <li className="ml-5 cursor-pointer"><Link href="/about">About</Link></li>
-                <li className="ml-5 cursor-pointer"><Link href="/contact">Contact</Link></li>
+                <li className="ml-5 cursor-pointer hover:-translate-y-2 duration-500 transition-all"><Link href="/worlds">Worlds</Link></li>
+                <li className="ml-5 cursor-pointer hover:-translate-y-2 duration-500 transition-all"><Link href="/rooms">Rooms</Link></li>
+                <li className="ml-5 cursor-pointer hover:-translate-y-2 duration-500 transition-all"><Link href="/about">About</Link></li>
+                <li className="ml-5 cursor-pointer hover:-translate-y-2 duration-500 transition-all"><Link href="/contact">Contact</Link></li>
             </ul>
         </div>
         <div>

@@ -40,21 +40,30 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 [Orange:#f8c169](https://www.color-hex.com/color/f8c169)
 [Yellow: #FFEB82](https://www.color-hex.com/color/ffeb82)
 [Green:#a4c972](https://www.color-hex.com/color/a4c972)
+[Green 2: #A1DFA4](https://www.color-hex.com/color/A1DFA4)
 [Pink: #e2b9d7](https://www.color-hex.com/color/e2b9d7)
+[Pink 2: #DF908D](https://www.color-hex.com/color/DF908D)
 [Blue: #5d8fc5](https://www.color-hex.com/color/5d8fc5)
-[Purple: #9679d0](https://www.color-hex.com/color/9679d0)
-[White: #f3f6f4](https://www.color-hex.com/color/f3f6f4 )
-
+[Purple 1: #936685](https://www.color-hex.com/color/936685)
+[Purple 2: #7a4b6f](https://www.color-hex.com/color/9679d0)
+[White: #f3f6f4](https://www.color-hex.com/color/f3f6f4)
+[White 2: #DDE3F3](https://www.color-hex.com/color/DDE3F3)
+#7A2E54
+#DAB972
 ## Dark Color Palette
-[Red:#a31414](https://www.color-hex.com/color/a31414)
+[Red 1: #a31414](https://www.color-hex.com/color/a31414)
+[Red 2:#b24343](https://www.color-hex.com/color/b24343)
 [Orange:#e48220](https://www.color-hex.com/color/e48220)
-[Yellow: #e9e94b](https://www.color-hex.com/color/e9e94b)
+[Yellow 1: #DAB972](https://www.color-hex.com/color/DAB972)
+[Yellow 2: #e9e94b](https://www.color-hex.com/color/e9e94b)
 [Green:#71b52c](https://www.color-hex.com/color/71b52c)
-[Pink: #d65897 ](https://www.color-hex.com/color/d65897)
+[Pink 1: #7A2E54 ](https://www.color-hex.com/color/7A2E54)
+[Pink 2: #d65897](https://www.color-hex.com/color/d65897)
 [Blue: #327dca](https://www.color-hex.com/color/327dca)
-[Purple: #722db6](https://www.color-hex.com/color/722db6)
-[Black: #121212](https://www.color-hex.com/color/121212)
+[Purple: #4B2E44](https://www.color-hex.com/color/4B2E44)
+[Black: #15211F](https://www.color-hex.com/color/15211F)
 
 Additional references:
 - [Kingdom Hearts Color Palette](https://www.color-hex.com/color-palette/73363)
 - [Kingdom Hearts Nightmares Collection](https://www.color-hex.com/color-palette/73367)
+- [Color Palette Challenge](https://aminoapps.com/c/kingdom-hearts/page/blog/color-palette-challenge/ronE_jZteuLrmxngovdGp26p2dXXLpM1k4)
