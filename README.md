@@ -53,6 +53,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 ## Dark Color Palette
 [Red 1: #a31414](https://www.color-hex.com/color/a31414)
 [Red 2:#b24343](https://www.color-hex.com/color/b24343)
+[Red 3: #7A2E2E](https://www.color-hex.com/color/7A2E2E)
 [Orange:#e48220](https://www.color-hex.com/color/e48220)
 [Yellow 1: #DAB972](https://www.color-hex.com/color/DAB972)
 [Yellow 2: #e9e94b](https://www.color-hex.com/color/e9e94b)

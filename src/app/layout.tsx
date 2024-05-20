@@ -3,6 +3,7 @@ import { Fira_Code } from 'next/font/google';
 import './globals.css';
 import React from 'react';
 import Header from '@/components/Header/Header';
+import Footer from '@/components/Footer/Footer';
 
 
 const fira = Fira_Code({ subsets: [ 'latin' ], weight: [ '300', '400', '500','700' ], style: [ 'normal' ], variable: '--font-fira' });
@@ -24,6 +25,7 @@ children: React.ReactNode;
                 <main className="font-normal">
                     <Header/>
                     {children}
+                    <Footer/>
                     {/* Footer Component */}
                 </main>
             </body>

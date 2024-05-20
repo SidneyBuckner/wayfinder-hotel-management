@@ -5,7 +5,7 @@ import { FaHeart } from 'react-icons/fa';
 const Header = () => (
     <header className="py-10 px-4 container mx-auto text-xl flex flex-wrap md:flex-wrap items-center justify-between">
         <div className="flex items-center w-full md:2/3">
-            <p><Link href="/" className="text-[#A31414]"> Wayfinder - A World Away From Home</Link></p>
+            <p><Link href="/" className="text-tertiary-dark"> Wayfinder - A World Away From Home</Link></p>
         </div>
         <div>
             <ul className="flex items-center">
