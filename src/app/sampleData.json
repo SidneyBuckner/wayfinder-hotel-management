@@ -1,0 +1,207 @@
+[
+    {
+      "name": "Destiny Islands",
+      "description": "Sora, Riku, and Kairi's home island. A peaceful world where they dream of exploring beyond.",
+      "appearances": [
+        "Kingdom Hearts",
+        "Kingdom Hearts II",
+        "Kingdom Hearts 358/2 Days",
+         "Kingdom Hearts Re:Chain of Memories"
+      ],
+      "franchise": "Original",
+      "image_url": "https://example.com/destiny_islands.jpg"
+    },
+    {
+        "name": "Traverse Town",
+        "description": "A safe haven for those who have lost their worlds.",
+        "appearances": [
+          "Kingdom Hearts",
+           "Kingdom Hearts Re:Chain of Memories"
+        ],
+        "franchise": "Original",
+        "image_url": "https://example.com/traverse_town.jpg"
+      },
+    {
+      "name": "Wonderland",
+      "description": "A whimsical world based on of illusions and wonder, ruled by the tyrannical Queen of Hearts.",
+      "appearances": [
+        "Kingdom Hearts",
+        "Kingdom Hearts Re:Chain of Memories"
+      ],
+      "franchise": "Disney",
+      "image_url": "https://example.com/wonderland.jpg"
+    },
+    {
+        "name": "Deep Jungle",
+        "description": "Far away from modern society, off the coast of africa.",
+        "appearances": [
+          "Kingdom Hearts"
+        ],
+        "franchise": "Disney",
+        "image_url": "https://example.com/wonderland.jpg"
+      },
+      {
+        "name": "Olympus Coliseum",
+        "description": "Far away in ancient Greece, a land of awesome gods and brave heroes.",
+        "appearances": [
+          "Kingdom Hearts",
+          "Kingdom Hearts II",
+          "Kingdom Hearts Re:Chain of Memories",
+          "Kingdom Hearts III"
+        ],
+        "franchise": "Disney",
+        "image_url": "https://example.com/wonderland.jpg"
+      },
+      {
+        "name": "Agrabah",
+        "description": "A mystical land of magic and sand. Where caravan camels roam.",
+        "appearances": [
+          "Kingdom Hearts",
+          "Kingdom Hearts II",
+          "Kingdom Hearts Birth by Sleep"
+        ],
+        "franchise": "Disney",
+        "image_url": "https://example.com/halloween_town.jpg"
+      },
+    {
+      "name": "Halloween Town",
+      "description": "A spooky world full of tricks and treats where Halloween is everyday of the year.",
+      "appearances": [
+        "Kingdom Hearts",
+        "Kingdom Hearts II",
+        "Kingdom Hearts Birth by Sleep"
+      ],
+      "franchise": "Disney",
+      "image_url": "https://example.com/halloween_town.jpg"
+    },
+    {
+        "name": "Monstro",
+        "description": "The muck and gunk inside the belly of a whale. Who knows what fun you'll find there.",
+        "appearances": [
+          "Kingdom Hearts",
+          "Kingdom Hearts Re:Chain of Memories"
+          
+        ],
+        "franchise": "Disney",
+        "image_url": "https://example.com/halloween_town.jpg"
+      },
+      {
+        "name": "Atlantica",
+        "description": "Under the sea, we go to have a lot of finny fun.",
+        "appearances": [
+          "Kingdom Hearts",
+          "Kingdom Hearts II",
+          "Kingdom Hearts Re:Chain of Memories"
+          
+        ],
+        "franchise": "Disney",
+        "image_url": "https://example.com/halloween_town.jpg"
+      },
+      {
+        "name": "Neverland",
+        "description": "On the second star to the right, and where they fly straight on til' morning.",
+        "appearances": [
+          "Kingdom Hearts",
+          "Kingdom Hearts Re:Chain of Memories"
+          
+        ],
+        "franchise": "Disney",
+        "image_url": "https://example.com/halloween_town.jpg"
+      },
+      {
+        "name": "100 Acre Wood",
+        "description": "Where rumblings in your tummy, bees and hunny are all welcome. ",
+        "appearances": [
+          "Kingdom Hearts",
+          "Kingdom Hearts Re:Chain of Memories",
+          "Kingdom Hearts II",
+          "Kingdom Hearts III"
+          
+        ],
+        "franchise": "Disney",
+        "image_url": "https://example.com/halloween_town.jpg"
+      },
+      {
+        "name": "End of the World",
+        "description": "The remnants of worlds, taken by the Heartless.",
+        "appearances": [
+          "Kingdom Hearts",
+          "Kingdom Hearts Re:Chain of Memories"
+          
+        ],
+        "franchise": "Original",
+        "image_url": "https://example.com/halloween_town.jpg"
+      },
+      {
+        "name": "Hollow Bastion",
+        "description": "Dominated by a castle which, now derelict, once was the world's seat of power. Guarded by rising falls and waterways. Don't wander too far in the darkness",
+        "appearances": [
+          "Kingdom Hearts",
+          "Kingdom Hearts Re:Chain of Memories"
+          
+        ],
+        "franchise": "Original",
+        "image_url": "https://example.com/halloween_town.jpg"
+      },
+      {
+        "name": "Castle Oblivion",
+        "description": "a fortress that sleeps between light and darkness, to lose is to find and to find is to lose. Hold onto your memories here.",
+        "appearances": [
+          "Kingdom Hearts",
+          "Kingdom Hearts Re:Chain of Memories",
+          "Kingdom Hearts III"
+          
+        ],
+        "franchise": "Original",
+        "image_url": "https://example.com/halloween_town.jpg"
+      },
+      {
+        "name": "Twilight Town",
+        "description": "A quiet city stuck in endless sunset, with its sun always in the same position in the sky, never rising nor setting.",
+        "appearances": [
+          "Kingdom Hearts",
+          "Kingdom Hearts Re:Chain of Memories",
+          "Kingdom Hearts III",
+          "Kingdom Hearts Birth by Sleep",
+          "Kingdom Hearts 358/2 Days"
+          
+        ],
+        "franchise": "Original",
+        "image_url": "https://example.com/halloween_town.jpg"
+      },
+      {
+        "name": "Mysterious Tower",
+        "description": "A tower of curious knowledge and power, where a mighty wizard resides.",
+        "appearances": [
+          "Kingdom Hearts III",
+          "Kingdom Hearts II",
+          "Kingdom Hearts Birth by Sleep"
+          
+        ],
+        "franchise": "Original",
+        "image_url": "https://example.com/halloween_town.jpg"
+      },
+      {
+        "name": "Radiant Garden",
+        "description": "Standing proud besides the ashes of Hallow Bastion, a towns of maze and waterfalls is slowly restored.",
+        "appearances": [
+          "Kingdom Hearts III",
+          "Kingdom Hearts II"
+          
+        ],
+        "franchise": "Original",
+        "image_url": "https://example.com/halloween_town.jpg"
+      },
+      {
+        "name": "The Land of Dragons",
+        "description": "In bamboo groves , .",
+        "appearances": [
+          "Kingdom Hearts III",
+          "Kingdom Hearts II"
+          
+        ],
+        "franchise": "Original",
+        "image_url": "https://example.com/halloween_town.jpg"
+      },
+  ]
+  
