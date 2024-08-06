@@ -4,10 +4,8 @@ import './globals.css';
 import React from 'react';
 import Header from '@/components/Header/Header';
 import Footer from '@/components/Footer/Footer';
-import ColorThemeProvider from '@/components/ColorThemeProvider/ColorThemeProvider';
 
-
-const fira = Fira_Code({ 'subsets': [ 'latin' ], 'weight': [ '300', '400', '500','700' ], 'style': [ 'normal' ], 'variable': '--font-fira' });
+const fira = Fira_Code({ subsets: [ 'latin' ], weight: [ '300', '400', '500','700' ], style: [ 'normal' ], variable: '--font-fira' });
 // const lora  = Lora({ subsets: [ 'latin' ], weight: [ '400' ], style: [ 'italic', 'normal' ], variable: '--font-lora' });
 
 export const metadata: Metadata = {
@@ -23,14 +21,12 @@ children: React.ReactNode;
     return (
         <html lang="en" >
             <body className={fira.className}>
-                <ColorThemeProvider>
                     <main className="font-normal">
                         <Header/>
                         {children}
                         <Footer/>
                         {/* Footer Component */}
                     </main>
-                </ColorThemeProvider>
             </body>
         </html>
     );
